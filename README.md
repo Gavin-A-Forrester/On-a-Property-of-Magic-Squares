@@ -1,1 +1,1 @@
-![](magic_coefficient.png)
+![](/Original/magic_coefficient.png)
